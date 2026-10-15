@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/diogoprov/diogoprov.r-universe.dev
 	branch = HEAD
+[submodule "crywolf"]
+	path = crywolf
+	url = https://github.com/diogoprov/crywolf

@@ -5,6 +5,8 @@
 [submodule "crywolf"]
 	path = crywolf
 	url = https://github.com/diogoprov/crywolf
+	branch = main
 [submodule "sheepdog"]
 	path = sheepdog
 	url = https://github.com/diogoprov/sheepdog
+	branch = main

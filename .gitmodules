@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/diogoprov/diogoprov.r-universe.dev
 	branch = HEAD
+[submodule "CoDaStereo"]
+	path = CoDaStereo
+	url = https://github.com/diogoprov/CoDaStereo
+	branch = main
 [submodule "crywolf"]
 	path = crywolf
 	url = https://github.com/diogoprov/crywolf

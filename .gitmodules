@@ -14,3 +14,7 @@
 	path = sheepdog
 	url = https://github.com/diogoprov/sheepdog
 	branch = main
+[submodule "treeshapesim"]
+	path = treeshapesim
+	url = https://github.com/diogoprov/treeshapesim
+	branch = main

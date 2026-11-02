@@ -10,6 +10,10 @@
 	path = crywolf
 	url = https://github.com/diogoprov/crywolf
 	branch = main
+[submodule "lagprotest"]
+	path = lagprotest
+	url = https://github.com/diogoprov/lagprotest
+	branch = main
 [submodule "sheepdog"]
 	path = sheepdog
 	url = https://github.com/diogoprov/sheepdog

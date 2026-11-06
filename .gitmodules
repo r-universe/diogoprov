@@ -6,6 +6,10 @@
 	path = CoDaStereo
 	url = https://github.com/diogoprov/CoDaStereo
 	branch = main
+[submodule "comdynamite"]
+	path = comdynamite
+	url = https://github.com/diogoprov/comdynamite
+	branch = main
 [submodule "crywolf"]
 	path = crywolf
 	url = https://github.com/diogoprov/crywolf
